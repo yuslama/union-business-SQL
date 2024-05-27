@@ -5,3 +5,5 @@ This project aims to analyze the types, categories, and geographical distributio
 
 ## Dataset
 The dataset used for this analysis is sourced from the Union Square Partnership and includes information about various businesses in the Union Square area.
+
+Open the ipynb file to see the notebook.
